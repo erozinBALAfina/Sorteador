@@ -37,7 +37,7 @@ class _HomePageState extends State<HomePage> {
         builder:
             (context) => AlertDialog(
               title: Text("Parabens"),
-              content: Text("Voce ganhou"),
+              content: Text("Voce ganhou."),
             ),
       );
     }
